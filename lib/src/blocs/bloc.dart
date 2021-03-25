@@ -1,6 +1,5 @@
 import 'dart:async';
-
-import 'package:simple_flutter_login_form_02/src/blocs/validators.dart';
+import 'validators.dart';
 
 class Bloc extends Validators {
   final _email = StreamController<String>();
@@ -24,4 +23,3 @@ class Bloc extends Validators {
 
 // New instance of Bloc class - Single Global Instance (Applying BLoC)
 final bloc = Bloc();
-

@@ -2,9 +2,6 @@
 
 A new Flutter pet-project with State Management - Applying BLoC Pattern (Single Global Instance)
 
-```
-final bloc = Bloc();
-```
 
 * [bloc: ^7.0.0](https://pub.dev/packages/bloc)
 * [streams](https://dart.dev/tutorials/language/streams)
@@ -17,6 +14,7 @@ final bloc = Bloc();
 Run in terminal:
 
 ``` 
+flutter pub get
 flutter doctor
 flutter run
 ```

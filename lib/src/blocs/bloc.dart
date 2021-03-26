@@ -20,6 +20,3 @@ class Bloc extends Validators {
     _password.close();
   }
 }
-
-// New instance of Bloc class - Single Global Instance (Applying BLoC)
-final bloc = Bloc();

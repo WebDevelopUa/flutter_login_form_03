@@ -1,6 +1,6 @@
 # Flutter Simple Login Form App
 
-A new Flutter pet-project with State Management - Applying BLoC Pattern (Scoped Instances)
+A new Flutter pet-project with Streams - Applying BLoC Pattern (Scoped Instances)
 
 
 * [bloc: ^7.0.0](https://pub.dev/packages/bloc)
@@ -9,12 +9,13 @@ A new Flutter pet-project with State Management - Applying BLoC Pattern (Scoped 
 * [StreamTransformer<S, T> class](https://api.dart.dev/stable/2.10.5/dart-async/StreamTransformer-class.html)
 * [AsyncSnapshot<T> class](https://api.flutter.dev/flutter/widgets/AsyncSnapshot-class.html)
 * [dependOnInheritedWidgetOfExactType<T extends InheritedWidget> method](https://api.flutter.dev/flutter/widgets/BuildContext/dependOnInheritedWidgetOfExactType.html)
-* [rxdart 0.26.0](https://pub.dev/packages/rxdart)
+* [rxdart 0.26.0](https://pub.dev/packages/rxdart/versions/0.26.0)
 * [ReactiveXReactiveX](http://reactivex.io/)
 * [RxDart API documentation](https://pub.dev/documentation/rxdart/latest/)
 * [combine2<A, B, R> method](https://pub.dev/documentation/rxdart/latest/rx/CombineLatestStream/combine2.html)
 * [RxJS Marbles](https://rxmarbles.com/)
 * [CombineLatestStream<T, R> class](https://pub.dev/documentation/rxdart/latest/rx/CombineLatestStream-class.html)
+* [BehaviorSubject<T> class](https://pub.dev/documentation/rxdart/latest/rx/BehaviorSubject-class.html)
 
 
 ---------
